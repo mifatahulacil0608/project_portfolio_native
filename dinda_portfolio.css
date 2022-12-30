@@ -92,7 +92,7 @@ button, input {
 }
 /* akhir navigasi */
 .home {
-  background: url(/PORTFOLIO_PROJECT/dinda_wisuda.jpg) no-repeat;
+  background: url(dinda_wisuda.jpg) no-repeat;
   min-height: 700px;
   background-position: bottom;
   width: 100%;
